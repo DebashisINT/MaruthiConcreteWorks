@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822746744748",
+    "project_id": "maruthi-concrete",
+    "storage_bucket": "maruthi-concrete.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822746744748:android:ed2c9a71d028f820325c09",
+        "android_client_info": {
+          "package_name": "com.breezefieldmaruthiconcreteworks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALfcFULBzYU6LLRNv2hk0pW_TsN2lPVIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
